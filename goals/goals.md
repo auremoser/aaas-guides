@@ -1,14 +1,14 @@
 # Goal-setting
 
-Short Link : https://mzl.la/mozgoals
+Short Link : 
 
-The objective of this exercise is to define a few key goals and areas of improvement over your next 10 months as a Mozilla Fellow.
+The objective of this exercise is to define a few key goals and areas of improvement over your next fellowship period. It's not an obligatory exercise but it might be a helpful brainstorm as you define your goals and those of your community.
 
 ## PART I: Setting Goals
 
 Let's start with some time-travel.
 
-Imagine it's June, you're wrapping up your fellowship and about to attend the final fellows dinner with your cohort and potentially the fellows from concurrent cohorts.
+Imagine it's the end of your fellowship period. You're about to attend the final fellows dinner with your cohort.
 
 How would you like to be remembered? 
 
@@ -31,7 +31,8 @@ Write one goal from these reflection questions. Transfer your goal to a post-it.
 ### 2. Collaborative + Community-wide
 
 * What contacts would you like to build or maintain?
-* Who or what can Mozilla connect you with before you graduate?
+* What assets would you like to be able to share with your (new or current) community?
+* Who or what can Mozilla/AAAS connect you with before you "graduate"?
 * What domains, industries, or disciplines would you like to collaborate with through your future work?
 
 Write one goal from these reflection questions. Transfer your goal to a post-it.
@@ -42,7 +43,7 @@ Write one goal from these reflection questions. Transfer your goal to a post-it.
 
 ### 3. Educational + Academic
 
-* What skills do you want to learn for your job?
+* What skills do you want to learn for your community management role going forward?
 * If you were to pursue (more) formal education, what would it be (continuing ed course, MOOC, academic degree...)?
 
 Write one goal from these reflection questions. Transfer your goal to a post-it.
@@ -57,11 +58,11 @@ Get into small groups of 4 or 5 people. Add your post-its to the same pool of po
 
 Discuss these goals; find at least on goal per person that connects to another goal in the pool (not one of yours). Cluster these goals together.
 
-Break down the year into 10 months, and discuss where your goals fall in that timeline.
+Break down the year into several months, and discuss where your goals fall in that timeline.
 
 ## PART III: Identifing your heros
 
-Think about one (or two) people you admire, write down their name and admirable qualities, in each of the three areas of development listed above.
+Think about one (or two) people you admire, write down their name and admirable qualities, perhaps guided by the three areas of development listed above.
 
 Brainstorm ways you can connect with this person...either directly by meeting/communicating with them, or abstractly by meeting them at their level, and emulating their qualities.
 
