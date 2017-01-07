@@ -5,6 +5,9 @@ bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
+# Misc files
+.DS_Store
+
 # Other files and folders
 .settings/
 
