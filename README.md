@@ -5,5 +5,6 @@
 
 **Resources**
 
-* https://github.com/auremoser/aaas-guides
-* https://auremoser.github.io/aaas-guides
+* [Repository](https://github.com/auremoser/aaas-guides)
+* [Website](https://auremoser.github.io/aaas-guides)
+* [Participation survey](https://goo.gl/forms/5eWB33OJvMzQM6Pa2)
